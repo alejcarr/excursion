@@ -1,0 +1,12 @@
+/* Add universal properties to website */
+* {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+  color: white;
+}
+
+h1 {
+  font-weight: Normal;
+  font-size: 50px;
+}
